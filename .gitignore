@@ -13,6 +13,7 @@ wheels/
 # Edit at https://www.gitignore.io/?templates=visualstudiocode
 
 ### VisualStudioCode ###
+.vscode
 .vscode/*      # Maybe .vscode/**/* instead - see comments
 !.vscode/settings.json
 !.vscode/tasks.json
